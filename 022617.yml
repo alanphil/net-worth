@@ -1,0 +1,12 @@
+---
+assets:
+  home: 100000
+  car_value: 15000
+  checking: 5000
+  savings: 8234
+  401k: 23456
+  hsa: 7777
+  paypal: 56
+liabilities:
+  mortgage: 66789
+  auto_loan: 8000
